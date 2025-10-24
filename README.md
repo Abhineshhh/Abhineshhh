@@ -16,8 +16,8 @@
 #### Featured
 
 <p align="center">
-  <a href="https://github.com/Abhineshhh/nyxen-theme">
-    <img width='49%' src="https://github-readme-stats.vercel.app/api/pin/?username=Abhineshhh&repo=nyxen-theme&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <a href="https://github.com/Abhineshhh/Peerlink">
+    <img width='49%' src="https://github-readme-stats.vercel.app/api/pin/?username=Abhineshhh&repo=Peerlink&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
   <span>&nbsp;</span>
   <a href="https://github.com/Abhineshhh/Multithreaded-Webserver">
