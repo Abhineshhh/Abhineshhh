@@ -1,19 +1,4 @@
-
-
-<div align="center">
-
-  <h2 style="margin-bottom: 10px;">Hey! What's up?</h2>
-
-  <p style="font-size: 16px; line-height: 1.6; max-width: 600px;">
-    I’m currently learning <strong>Backend Engineering</strong> with growing proficiency in 
-    <strong>Java</strong> and <strong>Spring Boot</strong>.<br/>
-    I’m also an <strong>Open Source Contributor</strong>, passionate about building meaningful and efficient backend solutions.
-  </p>
-
-</div>
-
-
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1AF700&width=700&lines=%3E+hey+i'm+abhinesh;%3E+learning+backend+engineering;%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
 
 [![Holopin badges](https://holopin.me/abhineshjha)](https://holopin.io/@abhineshjha)
 
